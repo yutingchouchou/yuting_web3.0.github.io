@@ -1,0 +1,35 @@
+/* This is your main stylesheet. */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+}
+
+header {
+    background: #333;
+    color: #fff;
+}
+
+nav {
+    background: #ccc;
+}
+
+nav a {
+    margin-right: 10px;
+}
+
+section {
+    background: #f4f4f4;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+}
