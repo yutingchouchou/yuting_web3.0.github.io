@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page 1 - Daily News</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>大學所學</h1>
+    </header>
+    <nav>
+        <!-- Remember to update these links to the correct pages -->
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="page1.html">Weekly Review</a></li>
+            <li><a href="page2.html">Weekly Review</a></li>
+            <li><a href="page3.html">Fun Corner</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Daily Updates</h2>
+        <p>This is the first page, I may put some daily news here.</p>
+    </section>
+    <footer>
+        <p>Your contact information here</p>
+    </footer>
+</body>
+</html>
