@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>蘇軾的曠達?莫言。</title>
+    <link rel="stylesheet" href="css/styles.css">
+ <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
+</head>
+<body>
+    <header>
+        <h1>蘇軾的曠達?莫言。</h1>
+    </header>
+    <nav>
+        <ul>
+        <li><a href="index.html">首頁</a></li>
+            <li><a href="page1.html">學習</a></li>
+            <li><a href="page2.html">每日記錄</a></li>
+            <li><a href="page3.html">隨緣紀錄</a></li>
+            <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">大學四載</a>
+            <div class="dropdown-content">
+                <a href="u1.html">大一</a>
+                <a href="u2.html">大二</a>
+                <a href="u3.html">大三</a>
+                <a href="u4.html">大四</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+            <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">畢業四載</a>
+            <div class="dropdown-content">
+                <a href="g1.html">碩一</a>
+                <a href="g2.html">下鄉第一年</a>
+                <a href="g3.html">下鄉第二年</a>
+                <a href="g4.html">碩二</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+             <li class="dropdown">
+             <a href="javascript:void(0)" class="dropbtn">離台後</a>
+            <div class="dropdown-content">
+                <a href="b1.html">離台第一載</a>
+                <a href="b2.html">離美第一載</a>
+                <a href="b3.html">離美第二載</a>
+                <a href="b4.html">離台第二載</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+            <li><a href="Half_of_me.html">我的前半生</a></li>
+            <li><a href="MM.html">電影與音樂</a></li>
+            <li><a href="History.html">歷史與文學</a></li>
+            <li><a href="Time.html">政治與時事</a></li>
+            <li><a href="Bright.html">科學與發現</a></li>
+            
+        
+        </ul>
+    </nav>
+    <section>
+         <section>
+        <p>因緣際會，和一位福建泉州的姑娘聊到文學與古詩詞，她認為《臺北人》等書籍的細膩情感，其中用字蘊含著台灣文學的獨有特色。</p>
+        <p>奈何小弟對於現代文學的悟性未達火侯，所幸試著從古人身上找些靈感：她認為蘇軾乃古人中最為立體的存在，原因在於蘇東坡的文字情感可由士大夫以天下為己任的胸懷，《刑賞忠厚之至論》回歸到自身對於亡妻的思念之情。《江城子》我想起的是「十年生死兩茫茫，不思量，自難忘。」她想起的是「小軒窗，正梳妝。相顧無言，惟有淚千行。」類似的感懷詩句數不勝數。</p>
+        <p>純粹的詩評論著說著，不知到哪兒的傷心處，泉州姑娘說：「別說啦！我都快哭了！」<br>
+        ＃才知道她想起與過往的情感糾葛<br>
+        ＃此人大男人主義之劣跡斑斑<br>
+        ＃聽著津津有味的八卦同時<br>
+        #才忽然得知多方是台灣人<br>
+        ＃我僅代表台灣男性與她道歉</p>
+        <p>說是可以說，不過換句話說，我們便聊到蘇軾貶謫、喪妻、喪子後的豁達如同大部分的論點，泉州姑娘也是認同蘇軾的曠達乃詩人之最！甚至遠超陶淵明的歸隱。</p>
+        <p>然而，自從去年六月聽了台積的古典文學講座，受了中文系教授們的洗禮，我對『曠達』二字有更深刻的認識，藏在<a href="hyperlinkh20230601">辛棄疾</a>的詞作裏呢！</p>
+        <p>那麼，蘇軾，為何不足夠的『曠達』呢？</p>
+        <p>「不思量，自難忘」「莫聽穿林打葉聲」以上兩句皆是蘇軾的名句，尤其是《定風波》在莫聽後的「誰怕？一蓑煙雨任平生。」「歸去，也無風雨也無晴。」寥寥數字，千年來留給後人無盡對於曠達境界的心馳神往。</p>
+        <p>一個『莫』字，已經深深暗示著蘇軾那一切曠達的前提→迴避。<br>
+        ＃往事不要再提<br>
+        ＃人生已多風雨</p>
+        <p>另一個著名的『莫』字來源於亡國君李煜的「獨自莫憑欄。」憑欄遠眺，肯定是那故國之思的悲痛，穿林打葉，逃不掉那黑暗官場的委屈，別聽吧！別看吧！別再想啦！</p>
+        <p>近期文學界最常出現的莫字，只能是諾貝爾文學獎的莫言。言何？莫言罷！</p>
+        <p>我呢？莫待無花空折枝，願能曠達地走跳於人間。</p>
+    </section>
+        <figure>
+            <img src="imagetest/rainbow.jpg" alt="彩虹" width="300" >
+            <figcaption>SLAC(史丹佛直線加速中心)2024.03.12/figcaption>
+        <figure>
+
+    </section>
+    <footer>
+        <p>Your contact information here</p>
+    </footer>
+</body>
+</html>
