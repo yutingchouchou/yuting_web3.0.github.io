@@ -96,5 +96,12 @@ nav ul li a {
     background-color: #3e8e41; /* Darker green background */
 }
 
+<style>
+    .spaced {
+        margin-bottom: 20px; /* This adds 20px of space below the element */
+    }
+</style>
+
+<p class="spaced">This paragraph will have extra space below it.</p>
 
 
