@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>【歐本海默】</title>
+    <link rel="stylesheet" href="css/styles.css">
+ <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
+</head>
+<body>
+    <header>
+        <h1>【歐本海默】</h1>
+    </header>
+    <nav>
+        <ul>
+        <li><a href="index.html">首頁</a></li>
+            <li><a href="page1.html">學習</a></li>
+            <li><a href="page2.html">每日記錄</a></li>
+            <li><a href="page3.html">隨緣紀錄</a></li>
+            <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">大學四載</a>
+            <div class="dropdown-content">
+                <a href="u1.html">大一</a>
+                <a href="u2.html">大二</a>
+                <a href="u3.html">大三</a>
+                <a href="u4.html">大四</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+            <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">畢業四載</a>
+            <div class="dropdown-content">
+                <a href="g1.html">碩一</a>
+                <a href="g2.html">下鄉第一年</a>
+                <a href="g3.html">下鄉第二年</a>
+                <a href="g4.html">碩二</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+             <li class="dropdown">
+             <a href="javascript:void(0)" class="dropbtn">離台後</a>
+            <div class="dropdown-content">
+                <a href="b1.html">離台第一載</a>
+                <a href="b2.html">離美第一載</a>
+                <a href="b3.html">離美第二載</a>
+                <a href="b4.html">離台第二載</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+            <li><a href="Half_of_me.html">我的前半生</a></li>
+            <li><a href="MM.html">電影與音樂</a></li>
+            <li><a href="History.html">歷史與文學</a></li>
+            <li><a href="Time.html">政治與時事</a></li>
+            <li><a href="Bright.html">科學與發現</a></li>
+            
+        
+        </ul>
+    </nav>
+    <section>
+         <section>
+        
+
+<p>【歐本海默。短心得】</p>
+<p>歐戰風雲，</p>
+<p>本欲避戰，</p>
+<p>海港無情，</p>
+<p>默許開戰。 </p>
+<p>\</p>
+<p>以往僅須透過物理教科書，</p>
+<p>便可與物理學家的喜悅優遊。</p>
+<p>然而《歐本海默》，</p>
+<p>是一部能讓我們</p>
+<p>與物理學家在政治、局勢、現實與理念中</p>
+<p>共同地糾葛、翻騰著剪不斷理還亂的煩惱。</p>
+<p>諾藍導演似乎在《星際效應》的成效卓越後，</p>
+<p>便把電影的燒腦程度指數性增加了．．．．．．</p>
+<p>\</p>
+<p>後記：</p>
+<p>當電影有一幕於劍橋的課堂，</p>
+<p>歐本海默的前面有位華人面孔，</p>
+<p>我還真希望是李國鼎呢！</p>
+<p>1926歐本海默離開了劍橋，</p>
+<p>1934李國鼎就讀劍橋物理。</p>
+<p>他倆皆在卡文迪西實驗室。</p>
+<p>而皆拜師於鼎鼎大名拉賽福。</p>
+<p>前者因常搞砸實驗被趕出去，</p>
+<p>後者因抗日而回國協助國防。</p>
+<p>#李國鼎乃拉賽福得意門生</p>
+<p>結果被趕出去的歐本海默，</p>
+<p>間接地幫助了李國鼎的抗日救國規劃。</p>
+<p>雙手染滿了鮮血。</p>
+
+    </section>
+        <figure>
+            <img src="imagetest/KTlee.jpg" alt="PA" width="600" >
+            <figcaption>K.T. li and Rutherford during 1934 to 1937</figcaption>
+        <figure>
+
+    </section>
+    <footer>
+        <p>Your contact information here</p>
+    </footer>
+</body>
+</html>
