@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>金門:《何謂紀錄片？故事、人》</title>
+    <link rel="stylesheet" href="css/styles.css">
+ <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
+</head>
+<body>
+    <header>
+        <h1>金門:《何謂紀錄片？故事、人》</h1>
+    </header>
+    <nav>
+        <ul>
+        <li><a href="index.html">首頁</a></li>
+            <li><a href="page1.html">學習</a></li>
+            <li><a href="page2.html">每日記錄</a></li>
+            <li><a href="page3.html">隨緣紀錄</a></li>
+            <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">大學四載</a>
+            <div class="dropdown-content">
+                <a href="u1.html">大一</a>
+                <a href="u2.html">大二</a>
+                <a href="u3.html">大三</a>
+                <a href="u4.html">大四</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+            <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">畢業四載</a>
+            <div class="dropdown-content">
+                <a href="g1.html">碩一</a>
+                <a href="g2.html">下鄉第一年</a>
+                <a href="g3.html">下鄉第二年</a>
+                <a href="g4.html">碩二</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+             <li class="dropdown">
+             <a href="javascript:void(0)" class="dropbtn">離台後</a>
+            <div class="dropdown-content">
+                <a href="b1.html">離台第一載</a>
+                <a href="b2.html">離美第一載</a>
+                <a href="b3.html">離美第二載</a>
+                <a href="b4.html">離台第二載</a>
+                <!-- Add more links as needed -->
+            </div>
+            </li>
+            <li><a href="Half_of_me.html">我的前半生</a></li>
+            <li><a href="MM.html">電影與音樂</a></li>
+            <li><a href="History.html">歷史與文學</a></li>
+            <li><a href="Time.html">政治與時事</a></li>
+            <li><a href="Bright.html">科學與發現</a></li>
+            
+        
+        </ul>
+    </nav>
+    <section>
+         <section>
+        
+
+<p>            說到金門，我們可能會聯想到年初的金門撞船事件，殊不知於此同時，</p>
+<p>            台灣的紀錄片《金門》（Island in Between），也獲得奧斯卡入圍的殊榮。</p>
+<p>            今日有幸能親自聽到監製：蔣顯斌先生，分享自己從科技業，走向紀錄片的旅程。</p>
+<p>            </p>
+<p>            此段旅程與當中的反思，可遠聽而不可褻『文』焉，感受諸多，然而我文筆堪憂，實在是寫不出來......而有一位觀眾的提問，是關於AI會如何應用在紀錄片，蔣先生的回答，更是讓我激發塵封多年的回憶。</p>
+<p>            </p>
+<p>            蔣先生期待，未來有朝一日，人人都有隨手一部屬於自己與家庭的紀錄片。在這個人手一機的時代，短影音佔據著人們的注意力；然而，這些『被分散』的注意力，似乎難以構成一個『故事』。</p>
+<p>            </p>
+<p>            人的一生，何其短暫？但也必然精采，無論是苦難或快樂皆然。</p>
+<p>            </p>
+<p>            ＼</p>
+<p>            遙想高中，行走在台中的水利大樓，時常與街友們四目相對，</p>
+<p>            少年內心總是無限的納悶：</p>
+<p>            「為何不是我坐在那？」</p>
+<p>            </p>
+<p>            腦袋想盡了各種可能，我都不覺得自己有任何『應得的』理由，</p>
+<p>            是那個穿著制服，於熙來攘往的一中商圈，在夾娃娃機台，找尋一夾必重訣竅的閒人。</p>
+<p>            </p>
+<p>            而忙裡偷閒的高中生，在連續夾到七隻黃色小鴨之後，會將小鴨悄悄地放入包裡，低調地回到圖書館築夢。並在晚間十點閉館之時，搭乘82公車回阿嬤家，並在阿嬤的眼皮子底下，將鴨子一隻隻從包裡拿出，把省吃儉用的她嚇到睡意全消......我再樂悠悠地說到：「一個便當的錢。」</p>
+<p>            </p>
+<p>            我好想知道，時常以超商麵包果腹的街友，每一位的故事樣貌。</p>
+<p>            以街為友，何時從一個不得以，到坦然？</p>
+<p>            坦然？是的，大學有幸能受清華書院導師的邀請，前往新竹的人安基金會，在冷颼颼的年後，與「寒士」們聚於一個地下室，並間接得知他們的『選擇』，歷經淬鍊之後的某種坦然。</p>
+<p>            </p>
+<p>            新竹的強風迎面，不禁想起蘇轍的《快哉亭記》</p>
+<p>            「士生於世，使其中不自得。將何往而非病？使其中坦然，不以物傷性，將何適而非快？」</p>
+<p>            </p>
+<p>            人的境遇總是千百樣，無論天下名士、或街道寒士，在這人生如棋的賽局中，可能是無法回頭的小兵小卒，為了社會、理想、家庭而義無反顧的衝鋒。楚河的邊都沒碰上，就被車撞飛、達達的馬蹄踐踏，再感概的一句：「HOW美麗的錯誤？」；也可能是大將旁邊的衛士，終將只能困在所謂的『將帥囹圄』，睥睨群雄，快哉否？</p>
+<p>            ＼</p>
+<p>            落子無悔罷！</p>
+<p>            ＼</p>
+<p>            每個人故事的紀錄片，</p>
+<p>            蔣先生有個趣味的比喻：</p>
+<p>            『家春秋』</p>
+<p>            </p>
+<p>            故事。有人，才有故事；</p>
+<p>            四季。有人，才能感受。</p>
+<p>            「春花秋月何時了？往事知多少？」</p>
+<p>            基於騷人墨客習慣的傷春悲秋，</p>
+<p>            家春秋，不知道會是如何的呈現？</p>
+<p>            </p>
+<p>            春秋之悲觀，早在一百年前就被胡適打破，他期待的新文學，是可以樂觀的，</p>
+<p>            因此寫下一首《沁園春。誓師》：</p>
+<p>            「更不傷春，也不悲秋，以此誓師。</p>
+<p>            任花開也好，花飛也好，月圓故好，日落何悲？</p>
+<p>            ．．．</p>
+<p>            文章革命何疑..........要前空千古，下開百世，收他臭腐，還我神奇。為大中華，造新文學，此業吾曹欲讓誰？」</p>
+<p>            </p>
+<p>            胡適當年在文體解放運動之堅毅，或是另一位解放大師，毛澤東被剿共到谷底時所寫的《沁園春。雪》，一句「欲與天公試比高？.....還看今朝。」仍有人對其源源不斷的偉大歌頌；抑或照蔣介石日記對共產主義的描述「毀滅民族道德和感情的根源之人性。」</p>
+<p>            革命，以階級取代人性，進而把人性革掉了。</p>
+<p>            </p>
+<p>            都是故事。</p>
+<p>            </p>
+<p>            蘇轍的《快哉亭記》、胡的《嘗試集》、毛的《沁園春。雪》、老蔣的日記、寒士們的街道.......</p>
+<p>            </p>
+<p>            每個人，終將是故事。</p>
+<p>            紀錄片，天地眾生事。</p>
+
+    </section>
+        <figure>
+            <img src="imagetest/king.jpg" alt="PA" width="600" >
+            <figcaption>Pala Alto Sheraton 2024.04.30</figcaption>
+        <figure>
+
+    </section>
+    <footer>
+        <p>Your contact information here</p>
+    </footer>
+</body>
+</html>
