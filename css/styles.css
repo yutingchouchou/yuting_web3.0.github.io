@@ -109,5 +109,12 @@ nav ul li a {
     padding: 10px; /* Optional: Add padding for better spacing */
     /* Other styling options can include font-style, borders etc. */
 }
+.author-quote {
+    background-color: transparent; /* Makes the background transparent */
+    color: black; /* Ensures the text color is black, adjust if necessary */
+    padding: 10px; /* Adds padding around the text for spacing, optional */
+    /* You can add other styling properties here if needed */
+}
+
 
 
