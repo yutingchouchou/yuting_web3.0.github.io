@@ -103,5 +103,11 @@ nav ul li a {
 </style>
 
 <p class="spaced">This paragraph will have extra space below it.</p>
+.author-quote {
+    background-color: white; /* Change black to white or any other color you prefer */
+    color: black; /* Adjust text color if necessary */
+    padding: 10px; /* Optional: Add padding for better spacing */
+    /* Other styling options can include font-style, borders etc. */
+}
 
 
