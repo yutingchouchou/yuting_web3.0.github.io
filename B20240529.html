@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Damage of Material via Electric Field (Photon)</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Damage of Material via Electric Field (Photon)</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">首頁</a></li>
+            <li><a href="page1.html">學習</a></li>
+            <li><a href="page2.html">每日記錄</a></li>
+            <li><a href="page3.html">隨緣紀錄</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">大學四載</a>
+                <div class="dropdown-content">
+                    <a href="u1.html">大一</a>
+                    <a href="u2.html">大二</a>
+                    <a href="u3.html">大三</a>
+                    <a href="u4.html">大四</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">畢業四載</a>
+                <div class="dropdown-content">
+                    <a href="g1.html">碩一</a>
+                    <a href="g2.html">下鄉第一年</a>
+                    <a href="g3.html">下鄉第二年</a>
+                    <a href="g4.html">碩二</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">離台後</a>
+                <div class="dropdown-content">
+                    <a href="b1.html">離台第一載</a>
+                    <a href="b2.html">離美第一載</a>
+                    <a href="b3.html">離美第二載</a>
+                    <a href="b4.html">離台第二載</a>
+                </div>
+            </li>
+            <li><a href="Half_of_me.html">我的前半生</a></li>
+            <li><a href="MM.html">電影與音樂</a></li>
+            <li><a href="History.html">歷史與文學</a></li>
+            <li><a href="Time.html">政治與時事</a></li>
+            <li><a href="Bright.html">科學與發現</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Introduction</h2>
+        <blockquote style="font-family: 'Brush Script MT', cursive;">
+            <p><i>Before participating in today's informal meeting, the only thing I knew related to IBS was IPS stem cells.</i></p>
+            <footer>--- Y.T. Chou</footer>
+        </blockquote>
+        <p>IntraBeam Scattering (IBS) occurs naturally due to the Coulomb force between electrons in a bunch. In accelerator physics, the phase space with coordinates \(x, y, z\) and corresponding momenta \(p_x, p_y, p_z\) is a set of suitable parameters to describe the behavior of a bunch of electrons. The basic assumption is that all the electrons interact with each other via conservative forces, so <strong>Liouville's theorem</strong> works well to predict the position-momentum distribution of the electron beam. However, the emission of the electron beam after passing through the undulator causes energy loss, and collisions between electrons couple all the parameters in phase space. As a result, the beam size and the number of particles (i.e., Touschek effect) change, achieving a new equilibrium beam emittance. The luminosity is limited by this process.</p>
+        <p>Interestingly, the IBS rate has a \(\frac{1}{\gamma^4}\) dependence, implying that the larger the \(\frac{E}{mc^2}\) value, the more negligible the effect is (i.e., the faster the bunch is, the time dilation gives less time to electron interact together).</p>
+        <figure>
+            <img src="IPS.png" alt="IPS process" style="width:10%;">
+            <figcaption>The process of inducing normal cells (yellow) via introducing reprogramming factors (mRNA) is similar to the IBS process of achieving a new equilibrium.</figcaption>
+        </figure>
+        <p>Today's meeting will go through the fundamental derivation via the Landau collision integral (CI), which was first developed to deal with plasma in 1936 (i.e., non-equilibrium system, Boltzmann equation, with an extra interaction term).</p>
+    </section>
+    <section>
+        <h2>Landau Collision Integral</h2>
+        <p>Let's consider the total time derivative of the particle distribution \(f(\vec{v}, \vec{p}, t)\) and the external force on the left-hand side, then considering the friction force \(\vec{a}(\vec{v})\),</p>
+        <p>\[
+            \frac{df(\vec{r}, \vec{p}, t)}{dt}=\frac{\partial f}{\partial t} + \vec{v} \cdot \nabla_{\vec{r}} f+\frac{d\vec{p}}{dt}\frac{\partial f}{\partial\vec{p}}
+        \]</p>
+        <p>The first two terms on the right hand side is the common result because of the space time parameter for the distribution \(f\), and the third term is, obviously, coming from the momentum dependent in the phase space. In the system, the momentum change is caused by Lorentz force as shown below:</p>
+        <p>\[
+            \frac{\partial f}{\partial t} + \vec{v} \cdot \nabla_{\vec{r}} f + e\left(\vec{E} + \frac{\vec{v}}{c} \times \vec{B}\right) \cdot \nabla_{\vec{p}} f = L \frac{\partial}{\partial v_i} \left( -a_i f + \frac{1}{2} D_{ij} \frac{\partial f}{\partial v_j} \right)
+        \]</p>
+        <p>The right-hand side with the constant value \(L = \frac{4\pi n_e e^4}{m^2} \Lambda\), and the friction force \(\vec{a}(\vec{v})\) and the interaction coefficient \(D_{ij}\) could be shown as follows:</p>
+        <p>\[
+            \vec{a}(\vec{v}) = -\int f_e(\vec{v'}) \frac{\vec{u}}{u^3} d^3 \vec{v'}
+        \]</p>
+        <p>\[
+            D_{ij}(\vec{v}) = \int f(\vec{v'}) \frac{u^2 \delta_{ij} - u_i u_j}{|\vec{u}|^3} d^3 \vec{v'}
+        \]</p>
+        <p>The next step is to apply the small-angle approximation, and the whole scattering picture could be viewed as a field interaction picture.</p>
+    </section>
+    <section>
+        <h2>Small Angle Approximation</h2>
+        <p>Consider the classical scattering picture with two particles with impact parameter \(b\) and the scattering angle \(\theta\). The small angle approximation could be equivalent to the high energy approximation (J.D. Bjorken 1982) by carefully considering the exchange and ratio between kinetic energy and potential energy.</p>
+        <figure>
+            <img src="scatter.png" alt="Classical scattering" style="width:10%;">
+            <figcaption>Classical scattering could be applied to quantum wave scattering.</figcaption>
+        </figure>
+        <p>The focus on "angle" or "energy exchange" implies the focus on "field distribution" or "particles' position".</p>
+        <p>This may be the important physics and intuition behind all things.</p>
+    </section>
+    <section>
+        <h2>Diffusion Coefficient</h2>
+        <p>By considering the behavior of the distribution \(f\) with parameter \(\eta\), the diffusion equation could be applied:</p>
+        <p>\[
+            \frac{\partial f(\eta)}{\partial s} = D_{\eta} \frac{\partial^2 f(\eta)}{\partial \eta^2}
+        \]</p>
+        <p>After calculating by physics and math techniques, the diffusion coefficient gives the relation:</p>
+        <p>\[
+            D_{\eta} \propto \frac{1}{\gamma^3} \ln\left(\frac{r_{max}}{r_{min}}\right)
+        \]</p>
+        <p>And the new method calculated from ?? gives:</p>
+        <p>\[
+            D_{\eta} = \left(\frac{e}{\gamma mc^2}\right)^2 \int_0^\infty \langle \delta E_z(s) \delta E_z(0) \rangle ds
+        \]</p>
+        <p>where \(\langle \cdot \rangle\) means the calculation of correlation. By applying the Fourier transform and some complicated processes, the integral part looks like:</p>
+        <p>\[
+            \frac{2e^2}{\gamma (\epsilon \beta)^{\frac{3}{2}}} \int_0^{\infty} (k, K??) dk
+        \]</p>
+    </section>
+</body>
+</html>
