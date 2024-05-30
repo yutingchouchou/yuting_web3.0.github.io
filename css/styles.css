@@ -115,6 +115,9 @@ nav ul li a {
     padding: 10px; /* Adds padding around the text for spacing, optional */
     /* You can add other styling properties here if needed */
 }
+blockquote {
+    font-size: 1.5em; /* Adjust the value as needed */
+}
 
 
 
