@@ -1,45 +1,25 @@
-# Facebook 文章補充頁：上傳說明
+# 真正整合版：Facebook → 原網站文章頁
 
-這次不是新增 FB 分類，而是按照原網站既有分類產生補充頁。
+這版不再新增 Facebook 專區。
 
-## 使用方法
+做法：
+1. 每則 Facebook 貼文都轉成獨立文章頁：`fbYYYYMMDD_###.html`
+2. 文章頁格式模仿你原本的 `d20240314.html`
+3. 再把文章連結插入既有分類頁，例如 `g2.html`、`g3.html`、`History.html`、`page2.html`
+4. 上傳時會覆蓋同名分類頁，點原本分類頁就會看到「Facebook 匯入文章」
 
-1. 解壓縮 zip。
-2. 把裡面所有 `.html` 上傳到 GitHub repository 根目錄。
-3. 先打開：
-   `https://yutingchouchou.github.io/yuting_web3.0.github.io/fb_addon_index.html`
-4. 確認分類是否合理。
-5. 若滿意，再把各補充頁連結加進原本頁面。
+注意：
+- 這包只覆蓋我目前拿到原檔的分類頁，避免破壞我沒看到的原頁。
+- 沒拿到原檔的 Bright.html / Time.html / MM.html / b1.html / b2.html / b4.html 暫時沒有覆蓋；相關貼文已保守分配到 page1、page2、page3、History、Half_of_me、g4、b3 等既有可改頁面。
 
-## 不會覆蓋原站
-
-本包沒有 `index.html`，也沒有 `css/`，只新增：
-- `fb_addon_index.html`
-- `*_fb_addon.html`
-
-## 貼文總數
-
-609 則。
-
-## 分配結果
-
-- 學習｜Facebook 補充：9 則
-- 每日記錄｜Facebook 補充：3 則
-- 隨緣紀錄｜Facebook 補充：34 則
-- 大一｜Facebook 補充：0 則
-- 大二｜Facebook 補充：0 則
-- 大三｜Facebook 補充：0 則
-- 大四｜Facebook 補充：0 則
-- 碩一｜Facebook 補充：0 則
-- 下鄉第一年｜Facebook 補充：77 則
-- 下鄉第二年｜Facebook 補充：93 則
-- 碩二｜Facebook 補充：2 則
-- 離台第一載｜Facebook 補充：45 則
-- 離美第一載｜Facebook 補充：94 則
-- 離美第二載｜Facebook 補充：26 則
-- 離台第二載｜Facebook 補充：4 則
-- 我的前半生｜Facebook 補充：183 則
-- 電影與音樂｜Facebook 補充：1 則
-- 歷史與文學｜Facebook 補充：8 則
-- 政治與時事｜Facebook 補充：24 則
-- 科學與發現｜Facebook 補充：6 則
+分配數量：
+page1.html: 14
+page2.html: 112
+page3.html: 7
+u1.html: 0
+g2.html: 77
+g3.html: 43
+g4.html: 40
+b3.html: 30
+History.html: 35
+Half_of_me.html: 251
