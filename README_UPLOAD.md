@@ -1,25 +1,26 @@
-# 真正整合版：Facebook → 原網站文章頁
+# Final 手動分類版：新增 Tao.html
 
-這版不再新增 Facebook 專區。
+這版已依照使用者手動標註重分。
 
-做法：
-1. 每則 Facebook 貼文都轉成獨立文章頁：`fbYYYYMMDD_###.html`
-2. 文章頁格式模仿你原本的 `d20240314.html`
-3. 再把文章連結插入既有分類頁，例如 `g2.html`、`g3.html`、`History.html`、`page2.html`
-4. 上傳時會覆蓋同名分類頁，點原本分類頁就會看到「Facebook 匯入文章」
+新增：
+- Tao.html：桃花依舊笑春風
 
-注意：
-- 這包只覆蓋我目前拿到原檔的分類頁，避免破壞我沒看到的原頁。
-- 沒拿到原檔的 Bright.html / Time.html / MM.html / b1.html / b2.html / b4.html 暫時沒有覆蓋；相關貼文已保守分配到 page1、page2、page3、History、Half_of_me、g4、b3 等既有可改頁面。
+已處理：
+- → tao / taol：移入 Tao.html
+- → b1 / b1l：移入 b1.html
+- → time：移入 Time.html
+- → history：移入 History.html
+- → MM：移入 MM.html
+- → g4：移入 g4.html
+- index.html 與各頁導覽列加入「桃花依舊笑春風」
+- b1.html 已加入 Archives
+- 各分類頁直接插入原本 Archives，不新增 Facebook 專區
 
-分配數量：
-page1.html: 14
-page2.html: 112
-page3.html: 7
-u1.html: 0
-g2.html: 77
-g3.html: 43
-g4.html: 40
-b3.html: 30
-History.html: 35
-Half_of_me.html: 251
+檢查：
+- FB_ALL_CLASSIFICATIONS_FINAL_MANUAL_TAO.txt
+- FINAL_MANUAL_TAO_REPORT.txt
+
+上傳：
+- 解壓縮 ZIP
+- 將所有檔案上傳 GitHub repo 根目錄
+- 同名檔案會覆蓋

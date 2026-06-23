@@ -1,0 +1,82 @@
+Final manual Tao integration
+
+Half_of_me.html: 1
+History.html: 13
+MM.html: 5
+Tao.html: 16
+Time.html: 53
+b1.html: 37
+b3.html: 0
+g2.html: 117
+g3.html: 78
+g4.html: 96
+page1.html: 7
+page2.html: 11
+page3.html: 5
+u1.html: 0
+
+Manual overrides applied:
+fb20231002_003.html -> b1.html
+fb20231003_001.html -> g4.html
+fb20231003_002.html -> g4.html
+fb20231009_001.html -> b1.html
+fb20231013_001.html -> b1.html
+fb20231014_001.html -> b1.html
+fb20231014_002.html -> b1.html
+fb20231018_001.html -> b1.html
+fb20231019_001.html -> b1.html
+fb20231021_001.html -> b1.html
+fb20231021_002.html -> b1.html
+fb20231021_003.html -> b1.html
+fb20231027_001.html -> b1.html
+fb20231027_002.html -> b1.html
+fb20231028_001.html -> b1.html
+fb20231029_001.html -> b1.html
+fb20231030_001.html -> b1.html
+fb20231030_002.html -> b1.html
+fb20231101_001.html -> b1.html
+fb20231101_002.html -> b1.html
+fb20231103_001.html -> MM.html
+fb20231107_001.html -> b1.html
+fb20231119_001.html -> b1.html
+fb20231124_001.html -> b1.html
+fb20231214_001.html -> Tao.html
+fb20231222_001.html -> Tao.html
+fb20240101_001.html -> b1.html
+fb20240111_002.html -> b1.html
+fb20240120_001.html -> Tao.html
+fb20240313_001.html -> History.html
+fb20240315_001.html -> Tao.html
+fb20240328_001.html -> b1.html
+fb20240331_001.html -> b1.html
+fb20240406_001.html -> b1.html
+fb20240411_001.html -> b1.html
+fb20240414_001.html -> b1.html
+fb20240426_001.html -> b1.html
+fb20240430_001.html -> Tao.html
+fb20240502_001.html -> History.html
+fb20240503_001.html -> b1.html
+fb20240503_002.html -> Time.html
+fb20240506_001.html -> b1.html
+fb20240508_001.html -> b1.html
+fb20240508_002.html -> History.html
+fb20240515_001.html -> Tao.html
+fb20240517_002.html -> b1.html
+fb20240521_002.html -> Time.html
+fb20240525_001.html -> b1.html
+fb20240528_001.html -> Tao.html
+fb20240601_002.html -> b1.html
+fb20240603_002.html -> b1.html
+fb20240603_003.html -> b1.html
+fb20240611_001.html -> Tao.html
+fb20240620_001.html -> Tao.html
+fb20240627_001.html -> Tao.html
+fb20240701_001.html -> Tao.html
+fb20240704_002.html -> Tao.html
+fb20240711_001.html -> MM.html
+fb20240711_002.html -> MM.html
+fb20240715_001.html -> Tao.html
+fb20240715_002.html -> History.html
+fb20240717_001.html -> Tao.html
+fb20240717_002.html -> Tao.html
+fb20240721_001.html -> Tao.html
